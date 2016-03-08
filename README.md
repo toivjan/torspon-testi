@@ -1,2 +1,3 @@
 # torspon-testi
-There are many repositories but this one is mine.
+This is my repository. There are many like it, but this one is mine.
+
